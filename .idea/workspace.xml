@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="268aade7-1366-4e99-b1ed-8e5883314f69" name="Default" comment="" />
+=======
+    <list default="true" id="268aade7-1366-4e99-b1ed-8e5883314f69" name="Default" comment="">
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-04-18-Abstract Class And Interface.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> 37342ea00de44566f877bb1737cd1f47fd0d18a1
+    </list>
+>>>>>>> 46a8b721e9a5e71a8cc0e358b76f8b01d31abc28
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,17 +21,50 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+<<<<<<< HEAD
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2019-04-18-Abstract Class And Interface.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-18-Abstract Class And Interface.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+>>>>>>> 37342ea00de44566f877bb1737cd1f47fd0d18a1
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> 46a8b721e9a5e71a8cc0e358b76f8b01d31abc28
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+<<<<<<< HEAD
+      <find>markdown</find>
+=======
       <find>抽象类与接口</find>
       <find>最后才是构造函数的初始化</find>
       <find>抽象类</find>
       <find>五、Object 通用方法</find>
       <find>为什么不直接返回一</find>
       <find>七</find>
+>>>>>>> 37342ea00de44566f877bb1737cd1f47fd0d18a1
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -35,12 +80,18 @@
       <list>
         <option value="$PROJECT_DIR$/_posts/2019-04-17-Android 进程保活.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-17-Handler源码分析.md" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+=======
         <option value="$PROJECT_DIR$/_posts/2019-04-18-Mac 下 Android 发布项目到私服Nexus仓库.md" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-18-从零开始搭建SpringBoot+MySql+JPA 打造简单的后台服务.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-08-从零开始搭建SpringBoot+MySql+JPA 打造简单的后台服务.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-18-Java基础整理.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-18-Abstract Class And Interface.md" />
+>>>>>>> 37342ea00de44566f877bb1737cd1f47fd0d18a1
       </list>
     </option>
   </component>
@@ -73,6 +124,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="softwareboy92.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="softwareboy92.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="softwareboy92.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="softwareboy92.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+=======
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,6 +173,7 @@
             </path>
           </expand>
           <select />
+>>>>>>> 37342ea00de44566f877bb1737cd1f47fd0d18a1
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -133,12 +215,20 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+      <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -153,6 +243,7 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -173,6 +264,7 @@
       </option>
       <envs />
       <patterns />
+      <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -180,6 +272,7 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -207,12 +300,7 @@
       <envs />
       <properties />
       <listeners />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -228,13 +316,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555478328728</updated>
+<<<<<<< HEAD
+      <workItem from="1555478330679" duration="3491000" />
+      <workItem from="1555510950315" duration="19000" />
+      <workItem from="1555510973150" duration="1486000" />
+=======
       <workItem from="1555478330679" duration="10055000" />
+<<<<<<< HEAD
       <workItem from="1555581963481" duration="356000" />
+=======
+      <workItem from="1555581963481" duration="106000" />
+>>>>>>> 37342ea00de44566f877bb1737cd1f47fd0d18a1
+>>>>>>> 46a8b721e9a5e71a8cc0e358b76f8b01d31abc28
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="10411000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="4996000" />
+=======
+    <option name="totallyTimeSpent" value="10161000" />
+>>>>>>> 37342ea00de44566f877bb1737cd1f47fd0d18a1
+>>>>>>> 46a8b721e9a5e71a8cc0e358b76f8b01d31abc28
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -242,6 +348,10 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+>>>>>>> 37342ea00de44566f877bb1737cd1f47fd0d18a1
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -249,10 +359,25 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+<<<<<<< HEAD
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40127388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 37342ea00de44566f877bb1737cd1f47fd0d18a1
+>>>>>>> 46a8b721e9a5e71a8cc0e358b76f8b01d31abc28
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -269,7 +394,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
@@ -282,6 +407,25 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-16-Git-代码回滚.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-2-9-Mac快速调出终端.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+=======
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-08-从零开始搭建SpringBoot+MySql+JPA 打造简单的后台服务.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -393,6 +537,7 @@
               <marker date="1555580023775" expanded="true" signature="25968:25983" ph="{...}" />
               <marker date="1555580023775" expanded="true" signature="26003:26016" ph="{...}" />
             </folding>
+>>>>>>> 37342ea00de44566f877bb1737cd1f47fd0d18a1
           </first_editor>
           <second_editor />
         </state>
@@ -413,58 +558,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="57">
             <caret line="282" column="5" lean-forward="false" selection-start-line="282" selection-start-column="5" selection-end-line="282" selection-end-column="5" />
-            <folding>
-              <marker date="1555479950811" expanded="true" signature="4429:4452" ph="@{...}" />
-              <marker date="1555479950811" expanded="true" signature="4494:4604" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="4688:4928" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="5005:5879" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="5163:5398" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="5488:5873" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="5939:6353" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="6016:6347" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="6634:7422" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="7493:7813" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="7863:7959" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="8005:8082" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="8139:8265" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="8537:8560" ph="@{...}" />
-              <marker date="1555479950811" expanded="true" signature="8672:8874" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="8958:9152" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="8994:9107" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="9187:9310" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="9344:9466" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="9509:9749" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="9923:10080" ph="..." />
-              <marker date="1555479950811" expanded="true" signature="10394:10730" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="10882:10914" ph="/.../" />
-              <marker date="1555479950811" expanded="true" signature="11601:11780" ph="..." />
-              <marker date="1555479950811" expanded="true" signature="12027:12475" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="12569:12758" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="13161:13577" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="13743:13833" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="13900:14510" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="13982:14504" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="14941:15069" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="15319:15490" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="15552:15736" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="16565:16921" ph="..." />
-              <marker date="1555479950811" expanded="true" signature="17637:18014" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="17689:17790" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="17842:17942" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="17997:18008" ph="{}" />
-              <marker date="1555479950811" expanded="true" signature="18113:18489" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="18573:18675" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="18680:18703" ph="@{...}" />
-              <marker date="1555479950811" expanded="true" signature="18842:18923" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="18966:19223" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="19257:20175" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="19301:20066" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="19355:20056" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="20208:20468" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="20511:20554" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="20602:20766" ph="{...}" />
-              <marker date="1555479950811" expanded="true" signature="20691:20760" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -485,12 +578,13 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="341">
             <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -498,6 +592,7 @@
         </state>
       </provider>
     </entry>
+>>>>>>> 37342ea00de44566f877bb1737cd1f47fd0d18a1
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-15-Git指令整理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -508,7 +603,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-02-16-Git-代码回滚.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-2-9-Mac快速调出终端.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -543,7 +638,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-2-9-Mac快速调出终端.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-16-Git-代码回滚.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
@@ -736,6 +831,30 @@
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="95" column="11" lean-forward="true" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="51" column="18" lean-forward="false" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
