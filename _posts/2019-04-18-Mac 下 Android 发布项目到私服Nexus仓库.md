@@ -3,7 +3,7 @@ layout:     post
 title:      Mac 下 Android 发布项目到私服Nexus仓库
 subtitle:   Mac 下 Android 发布项目到私服Nexus仓库
 date:       2019-04-18
-author:     鱼忆七秒
+author:     北边一小民
 header-img: img/post-bg-desk.jpg
 catalog: true
 tags:

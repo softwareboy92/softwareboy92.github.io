@@ -3,7 +3,7 @@ layout:     post
 title:      Mac系统Android Studio获取调试版及开发版SHA1方法
 subtitle:   Mac系统Android Studio获取调试版及开发版SHA1方法
 date:       2019-05-05
-author:     鱼忆七秒
+author:     北边一小民
 header-img: img/post-bg-sha1.PNG
 catalog: true
 tags:

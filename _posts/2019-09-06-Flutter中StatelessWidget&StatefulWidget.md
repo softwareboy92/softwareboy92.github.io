@@ -3,7 +3,7 @@ layout:     post
 title:      StatelessWidget & StatefulWidget
 subtitle:   StatelessWidget & StatefulWidget及使用
 date:       2019-09-06
-author:     鱼忆七秒
+author:     北边一小民
 header-img: img/post-bg-flutter.jpeg
 catalog: true
 tags:

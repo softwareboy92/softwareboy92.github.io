@@ -1,10 +1,10 @@
 # Site settings
 title: Albert Blog
-SEOTitle: 鱼忆七秒的博客 | Albert Blog
+SEOTitle: 北边一小民的博客 | Albert Blog
 header-img: img/post-bg-desk.jpg
 email: lvzhongdi@icloud.com
 description: "Every failure is leading towards success."
-keyword: "Albert, Albert Blog, 鱼忆七秒的博客, Python, java, android"
+keyword: "Albert, Albert Blog, 北边一小民的博客, Python, java, android"
 url: "http://softwareboy92.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/softwareboy92/softwareboy92.github.io.git" # you code repository

@@ -3,7 +3,7 @@ layout:     post
 title:      Android Glide遇到的问题总结
 subtitle:   Android Glide兼容AndroidX及生成GlideApp方法
 date:       2019-07-24
-author:     鱼忆七秒
+author:     北边一小民
 header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:

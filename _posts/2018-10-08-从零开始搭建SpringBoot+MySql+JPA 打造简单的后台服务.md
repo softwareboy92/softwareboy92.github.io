@@ -3,7 +3,7 @@ layout:     post
 title:      从零开始搭建SpringBoot+MySql+JPA 打造简单的后台服务
 subtitle:   从零开始搭建SpringBoot+MySql+JPA 打造简单的后台服务
 date:       2018-10-08
-author:     鱼忆七秒
+author:     北边一小民
 header-img: img/post-bg-kuaidi.jpg
 catalog: true
 tags:

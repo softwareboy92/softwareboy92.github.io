@@ -3,7 +3,7 @@ layout:     post
 title:      Flutter VS React Native VS 原生
 subtitle:   Flutter VS React Native VS 原生
 date:       2019-10-31
-author:     鱼忆七秒
+author:     北边一小民
 header-img: img/post-bg-flutter.jpeg
 catalog: true
 tags:

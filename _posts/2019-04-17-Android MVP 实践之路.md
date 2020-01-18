@@ -3,7 +3,7 @@ layout:     post
 title:      Android MVP 实践之路（一）
 subtitle:   手把手教你在半小时内搭建自己 MVP项目
 date:       2019-04-17 01:13:17 +0800
-author:     鱼忆七秒
+author:     北边一小民
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:

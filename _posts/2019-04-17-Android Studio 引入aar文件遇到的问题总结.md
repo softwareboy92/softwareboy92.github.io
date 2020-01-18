@@ -3,7 +3,7 @@ layout:     post
 title:      Android Studio 引入aar文件遇到的问题总结
 subtitle:   最近在用android studio生成aar文件的时候遇到的问题总结一下
 date:       2019-04-17 01:13:17 +0800
-author:     鱼忆七秒
+author:     北边一小民
 header-img: img/post-bg-os-metro.jpg
 catalog: true
 tags:
