@@ -14,7 +14,7 @@ tags:
 
 # Android性能优化
 
-![image](http://note.youdao.com/yws/res/4979/9A57F653C38D479A9E0E3FABAB6CF4B8)
+![image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583492414577&di=dfb78a059df9efbcafdf0ceecf096a85&imgtype=jpg&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20160622%2F95145cdecd5d41659a0ab1e787cc16e2_th.jpg)
 
 * 为什么要进行性能优化?
 * 有哪些可以进行性能优化？
@@ -32,7 +32,7 @@ tags:
 ### 1.内存优化
 内存泄漏是Android的常客。那么什么是内存泄漏呢？内存不在GC的掌控范围之内了。那么java的GC内存回收机制是什么？某对象不在有任何引用的时候才会进行回收。那么GC回收机制的原理是什么？我们先来看张图。
 
-![image](http://note.youdao.com/yws/res/4792/C19FC6BA34C446BBBF1B6987CB62860C)
+![]("https://pic4.zhimg.com/80/v2-2da9d038d505f0aed2daac3ca7923307_1440w.jpg")
 
 当我们向上寻找，一直寻找到GC Root的时候，此对象不会进行回收，例如，一个Activity。那么如果我们向上寻找，直到找到GC Root对象的时候，就说明它是不可以回收的，
 
@@ -68,7 +68,7 @@ So，我们如何判断一个对象是一个可回收的垃圾对象呢？这是
 
 我们需要分析内存溢出的原因，我们先来看一张图：
 
-![image](http://note.youdao.com/yws/res/4812/84539CF7BCD646C081F8886CB56F3405)
+![image](https://pic3.zhimg.com/80/v2-27472e72eb4a0a54e21027635ddd65be_1440w.jpg)
 
 内存泄漏一般导致应用卡顿，极端情况会导致项目boom。Boom的原因是因为超过内存的阈值。原因主要有两方面：
 
@@ -77,8 +77,8 @@ So，我们如何判断一个对象是一个可回收的垃圾对象呢？这是
 
 所谓消耗大量的内存的，绝大多数是因为图片加载。这是我们oom出现最频繁的地方。我有写过图片加载的方法，一个是控制每次加载的数量，第二，保证每次滑动的时候不进行加载，滑动完进行加载。一般情况使用先进后出，而不是先进先出。不过一般我们图片加载都是使用fresco或者Glide等开源库。我们来看下下面两张图：
 
-![image](http://note.youdao.com/yws/res/4819/8273C70FEB28485585F8534268E1626C)
-![image](http://note.youdao.com/yws/res/4821/3306E6E3A19C4E05BE3281E17B92F0BD)
+![image](https://pic3.zhimg.com/80/v2-a9cdb2742a46475c000edeab4b6d997e_1440w.jpg)
+![image](https://pic1.zhimg.com/80/v2-def533bb8fc54cba6d826471f38393dc_1440w.jpg)
 
 对比两张图，我们可以在第一张的情况出现了oom情况，我们通过log打印发现，处理的好像没什么问题，换句话说，如果我不放那0.8M的图片。然后继续不停的操作同样会出现OOM，然而我们就蒙了。没什么图片加载怎么就这么崩掉了。
 
